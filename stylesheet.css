@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Verdana, Arial, Helvetica, sans-serif;
+}
+
+header, article, footer, p, h1, h2 {
+    border-bottom: 3px solid #ff0000;
+    padding: 12px;
+}
+
+#top {
+    width: 100%;
+    padding: 20px;
+    color: blueviolet;
+}
+
+#footer {
+    background-color: #666666;
+    color: whitesmoke;
+}
